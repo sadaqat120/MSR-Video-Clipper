@@ -46,7 +46,7 @@ _Final screen showing the successful completion of the clipping process._
 
 ⚠️ This software is private and access is **request-based**. Request permission below:
 
-- 🔽 [Download Executable (.exe)](https://drive.google.com/file/d/11aDFpfMmCCTUK7xqyTbNYyYL8_HwEMjc/view)
+- 🔽 [Download Executable (.exe)](https://drive.google.com/file/d/1cbOzWNSByMCI1Gop8BZ347ZXkl1jtdgf/view?usp=drive_link)
 - 🧠 [Download Python Source Code (.py)](https://drive.google.com/file/d/11aDFpfMmCCTUK7xqyTbNYyYL8_HwEMjc/view)
 
 ---
