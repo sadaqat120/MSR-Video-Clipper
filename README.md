@@ -125,7 +125,7 @@ python code.py
 
 ## 🔐 License
 
-This tool is for educational purposes and private use only. To request permission to use or distribute, open an issue or request via the download link.
+This tool is for private use only. To request permission to use or distribute, open an issue or request via the download link.
 
 ---
 
