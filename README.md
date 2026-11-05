@@ -136,3 +136,13 @@ Developed by Sadaqat Rasool
 - 🔗 [Github Profile](https://github.com/sadaqat120) 
 - 📧 [Email](mailto:sadaqatrasoolmsr@gmail.com) 
 - 💬 Collaboration & support welcome!
+
+---
+
+<div align="center">
+
+**Built by [Sadaqat Rasool](https://sadaqatrasool.vercel.app)**, Full-Stack & AI Software Engineer (Next.js · React · Node.js · Python · LLMs)
+
+[Portfolio](https://sadaqatrasool.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sadaqatrasool/) · [Email](mailto:sadaqatrasoolmsr@gmail.com) · Open to remote roles and client projects
+
+</div>
